@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taki Ahsan</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center" style="color:green;">MERN Stack Developer</h3>
 
 <p align="left">- 📕 I read in class/grade 8.</p>
 <p align="left">- 🔭 I'm 14 years old.</p>
