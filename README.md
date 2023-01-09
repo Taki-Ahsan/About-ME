@@ -1,5 +1,5 @@
-<image src="MERN.png" align="center">
 <h1 align="center">Hi 👋, I'm Taki Ahsan</h1>
+<p align="center"><img src="MERN.png"></p>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left">- 📕 I read in class/grade 8.</p>
